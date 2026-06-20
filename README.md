@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Amanuel Girma
 
-<!--
-**amegi123/amegi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of HALINK Technology PLC
 
-Here are some ideas to get you started:
+🚀 Building modern digital solutions in Ethiopia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+- Website Development
+- SaaS Development
+- AI Automation
+- ERP & CRM Systems
+- Mobile Apps
+- UI/UX Design
+- Digital Marketing
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/yourusername
+- Website: https://halink.et
+- YouTube: https://youtube.com/@yourchannel
+
+## Current Focus
+
+- Building Impactis
+- AI Agents
+- Growing HALINK Technology PLC
