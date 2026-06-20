@@ -16,7 +16,11 @@ Building modern digital solutions in Ethiopia 🇪🇹
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amegi123/amegi123/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amegi123/amegi123/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/amegi123/amegi123/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 > ⚙️ **Setup note:** the snake image is generated automatically by a GitHub Action. Follow the steps at the bottom of this file ("Activate the Snake Animation") to make it live on your own profile — once set up, it will always show your real contribution graph, including your last 87+ contributions.
@@ -135,13 +139,18 @@ I'm a **Full-Stack Developer** passionate about building scalable digital produc
 
 ## 🐍 Activate the Snake Animation (one-time setup)
 
-The snake at the top of this README is generated live from your real GitHub contributions (your last 87+ contributions will animate automatically). To turn it on for your own profile:
+The snake shows your real GitHub contributions automatically. Here's the exact fix for it not showing:
 
-1. In your `yourusername/yourusername` repo, go to **Settings → Secrets and variables → Actions** (no secret needed, this uses the default token).
-2. Create a new file: `.github/workflows/snake.yml` and paste:
+**Step 1 — Allow Actions to write to your repo**
+Go to your `amegi123/amegi123` repo → **Settings → Actions → General → Workflow permissions** → select **"Read and write permissions"** → Save.
+(This is the #1 reason the snake fails — by default GitHub blocks Actions from pushing a new branch.)
+
+**Step 2 — Add the workflow file**
+Create `.github/workflows/snake.yml` in your `amegi123/amegi123` repo with this exact content:
 
 ```yaml
 name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -157,13 +166,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: amegi123
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
@@ -171,9 +185,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Replace `yourusername` in the snake `<img>` tag near the top of this README with your **actual GitHub username** (it must match exactly, twice — repo owner and repo name).
-4. Commit the workflow. GitHub Actions will run it, create an `output` branch, and generate the SVG. It refreshes daily automatically — no manual updates ever needed.
+**Step 3 — Run it manually the first time**
+Go to the **Actions** tab → click **"Generate Snake"** on the left → click **Run workflow**. Wait ~30 seconds. This creates the `output` branch with the SVG file. (It won't appear in your README until this first run completes.)
 
-✅ Once live, the snake will visually "eat" each contribution square based on your real activity graph.
+**Step 4 — Confirm the file exists**
+After the run finishes (green checkmark), go to: `https://github.com/amegi123/amegi123/tree/output/dist` — you should see `github-contribution-grid-snake.svg` there. If you see it, the image in your README will load automatically (give GitHub's CDN a minute or two to cache it).
+
+**Common reasons it still won't show:**
+- ❌ Workflow permissions still set to "Read" only → fix in Step 1
+- ❌ Repo name isn't exactly `amegi123/amegi123` (must match your username exactly)
+- ❌ Repo is private — profile READMEs only render from a **public** repo
+- ❌ You haven't run the workflow yet (it doesn't auto-run on the very first save unless you push to `main` or trigger it manually)
+
+✅ Once it works, it updates daily on its own — no further action needed.
 
 </div>
