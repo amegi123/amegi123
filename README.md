@@ -1,8 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=200&amp;section=header&amp;text=Amanuel%20Girma%20Bekele&amp;fontSize=46&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Engineer%20%7C%20Microservices%20%26%20ERP%20Architect&amp;descAlignY=58&amp;descSize=18&amp;descColor=C9D1D9" />
+# Amanuel Girma Bekele
+### Full-Stack Engineer&nbsp;·&nbsp;Microservices &amp; ERP Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Architecting+Scalable+Microservices+%E2%9A%99%EF%B8%8F;Securing+Systems+with+Better+Auth+%26+JWT+%F0%9F%9B%A1%EF%B8%8F;Building+Impactis+%2C+AAHRAMS+%26+Beyond+%F0%9F%9A%80;2nd+Place+Safaricom+Capstone+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=AI+Agents+%26+Automation+Systems+%F0%9F%A4%96;Secure%2C+Scalable+SaaS+Products+%E2%98%81%EF%B8%8F;Exceptional+User+Experiences+%F0%9F%8E%A8;Driving+Digital+Transformation+Across+Africa+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -33,19 +34,19 @@ I'm a Full-Stack Software Engineer who treats backend architecture like infrastr
 <tr>
 <td width="50%" valign="top">
 
-**🤖 AI Innovation**  
+**🤖 AI Innovation**
 Developing AI agents, intelligent assistants, and automation systems that enable organizations to work smarter and scale faster.
 
-**☁️ Digital Product Engineering**  
+**☁️ Digital Product Engineering**
 Building secure, scalable, and future-ready SaaS products from concept to production.
 
 </td>
 <td width="50%" valign="top">
 
-**🎨 Exceptional User Experiences**  
+**🎨 Exceptional User Experiences**
 Creating intuitive, responsive, and accessible digital experiences that users genuinely enjoy.
 
-**🚀 HALINK Mission**  
+**🚀 HALINK Mission**
 Driving digital transformation across Ethiopia and Africa by delivering innovative technology solutions that create real impact.
 
 </td>
@@ -146,16 +147,16 @@ I'd rather catch a bad request at the door than debug it three services deep. Th
 ## 📊 Activity & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasAbrish&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasAbrish&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amegi123&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amegi123&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="43%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&amp;theme=react-dark&amp;bg_color=0D1117&amp;hide_border=true&amp;color=00F7FF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amegi123&amp;theme=react-dark&amp;bg_color=0D1117&amp;hide_border=true&amp;color=00F7FF" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasAbrish&amp;theme=tokyonight&amp;hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amegi123&amp;theme=tokyonight&amp;hide_border=true" width="60%" />
 </p>
 
 ---
@@ -171,10 +172,12 @@ I'd rather catch a bad request at the door than debug it three services deep. Th
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RasAbrish&amp;color=00F7FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=amegi123&amp;color=00F7FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Class_of-2026-00F7FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Architecting_Ecosystems-2ea043?style=flat-square" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243E,50:302B63,100:0F0C29&amp;height=100&amp;section=footer" />
+<br/>
+
+<sub>Built with ☕ and a strong opinion about error handling — thanks for reading this far.</sub>
 
 </div>
