@@ -1,15 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Amanuel%20Girma%20Bekele&fontSize=46&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Microservices%20%26%20ERP%20Architect&descAlignY=58&descSize=18&descColor=C9D1D9" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F0C29,50:302B63,100:24243E&amp;height=200&amp;section=header&amp;text=Amanuel%20Girma%20Bekele&amp;fontSize=46&amp;fontColor=00F7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full-Stack%20Engineer%20%7C%20Microservices%20%26%20ERP%20Architect&amp;descAlignY=58&amp;descSize=18&amp;descColor=C9D1D9" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Microservices+%E2%9A%99%EF%B8%8F;Securing+Systems+with+Better+Auth+%26+JWT+%F0%9F%9B%A1%EF%B8%8F;Building+Impactis+%2C+AAHRAMS+%26+Beyond+%F0%9F%9A%80;2nd+Place+Safaricom+Capstone+Winner+%F0%9F%8F%86" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F7FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Architecting+Scalable+Microservices+%E2%9A%99%EF%B8%8F;Securing+Systems+with+Better+Auth+%26+JWT+%F0%9F%9B%A1%EF%B8%8F;Building+Impactis+%2C+AAHRAMS+%26+Beyond+%F0%9F%9A%80;2nd+Place+Safaricom+Capstone+Winner+%F0%9F%8F%86" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://t.me/amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/Telegram-@amanuel__halink-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amanuel-girma-436760417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amanuel%20Girma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/aman_halink" target="_blank"><img src="https://img.shields.io/badge/Instagram-@aman__halink-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/TikTok-@amanuel__halink-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+<a href="https://t.me/amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/Telegram-@amanuel__halink-26A5E4?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amanuel-girma-436760417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amanuel%20Girma-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://www.instagram.com/aman_halink" target="_blank"><img src="https://img.shields.io/badge/Instagram-@aman__halink-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" /></a>
+<a href="https://www.tiktok.com/@amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/TikTok-@amanuel__halink-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" /></a>
 
 </div>
 
@@ -33,20 +33,20 @@ I'm a Full-Stack Software Engineer who treats backend architecture like infrastr
 <tr>
 <td width="50%" valign="top">
 
-**🛡️ Security Layer**
-Multi-tenant auth flows built on **Better Auth** + **JWT**, designed so permissions fail closed, not open.
+**🤖 AI Innovation**  
+Developing AI agents, intelligent assistants, and automation systems that enable organizations to work smarter and scale faster.
 
-**🏗️ Service Mesh**
-**NestJS** microservices, containerized with **Docker**, fronted by **Nginx** — each service does one job well.
+**☁️ Digital Product Engineering**  
+Building secure, scalable, and future-ready SaaS products from concept to production.
 
 </td>
 <td width="50%" valign="top">
 
-**🎨 Interface Layer**
-Accessible, premium UI with **Shadcn UI**, **Radix**, and **Tailwind CSS** — components that respect keyboard and screen reader users.
+**🎨 Exceptional User Experiences**  
+Creating intuitive, responsive, and accessible digital experiences that users genuinely enjoy.
 
-**🏆 Proof of Work**
-2nd Place — Safaricom Capstone (FuelFinder), built under real competition constraints.
+**🚀 HALINK Mission**  
+Driving digital transformation across Ethiopia and Africa by delivering innovative technology solutions that create real impact.
 
 </td>
 </tr>
@@ -95,24 +95,35 @@ A high-stakes execution platform on a **NestJS microservices** core.
 </td>
 <td width="33%" valign="top">
 
-### 🏠 AAHRAMS
-**Rental ERP**
+### 📊 Enterprise Assessment & Monitoring System
+**Offline-First MSME Platform**
 
-Digital governance for rental agreements and property workflows.
-- 📄 Automated PDF generation
-- 🧾 Tenant auditing trails
-- 💳 Secure payment tracking
+Field-ready assessment tool with automated EGI scoring.
+- 📴 Offline-first data capture
+- 📈 Automated EGI scoring engine
+- 🧑‍💼 Coach & admin dashboards
 
 </td>
 <td width="33%" valign="top">
 
-### ⛽ Fuel Finder
-**Award Winner**
+### 🏢 Qerden Hassena Properties
+**CRM & ERP Platform**
 
-🏆 2nd Place — Safaricom Capstone.
-Real-time fuel availability tracking platform.
+Modern real estate operations system, end to end.
+- 🏘️ Property listings management
+- 📋 Lead pipeline tracking
+- 🔔 Telegram notifications
 
-[**→ Live Demo**](https://fuel-finder-frontend.onrender.com/)
+</td>
+<td width="33%" valign="top">
+
+### 💪 Gym Management System
+**Full Operations Platform**
+
+Complete gym back office, front desk to billing.
+- 🪪 Membership tracking
+- 🧠 Face recognition attendance
+- 💳 Subscription billing + client portal
 
 </td>
 </tr>
@@ -135,16 +146,16 @@ I'd rather catch a bad request at the door than debug it three services deep. Th
 ## 📊 Activity & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RasAbrish&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasAbrish&layout=compact&theme=tokyonight&hide_border=true" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RasAbrish&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RasAbrish&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="43%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&theme=react-dark&bg_color=0D1117&hide_border=true&color=00F7FF" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RasAbrish&amp;theme=react-dark&amp;bg_color=0D1117&amp;hide_border=true&amp;color=00F7FF" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasAbrish&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RasAbrish&amp;theme=tokyonight&amp;hide_border=true" width="60%" />
 </p>
 
 ---
@@ -153,17 +164,17 @@ I'd rather catch a bad request at the door than debug it three services deep. Th
 
 ### 💬 Let's build something that doesn't fall over in production.
 
-<a href="https://t.me/amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/amanuel-girma-436760417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/aman_halink" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://www.tiktok.com/@amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/TikTok-Watch-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+<a href="https://t.me/amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/Telegram-Message%20me-26A5E4?style=flat-square&amp;logo=telegram&amp;logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amanuel-girma-436760417" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://www.instagram.com/aman_halink" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&amp;logo=instagram&amp;logoColor=white" /></a>
+<a href="https://www.tiktok.com/@amanuel_halink" target="_blank"><img src="https://img.shields.io/badge/TikTok-Watch-000000?style=flat-square&amp;logo=tiktok&amp;logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RasAbrish&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=RasAbrish&amp;color=00F7FF&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/Class_of-2026-00F7FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Architecting_Ecosystems-2ea043?style=flat-square" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243E,50:302B63,100:0F0C29&amp;height=100&amp;section=footer" />
 
 </div>
